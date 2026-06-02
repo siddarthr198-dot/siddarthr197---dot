@@ -17,7 +17,7 @@
 ## Projects
 
 ### Employee Management System
-- Developed using Java, JDBC and MySQL
+- Developed using Java, JDBC and SQL
 - CRUD Operations
 - Database Connectivity
 
